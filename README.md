@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dev-rgupta
-- 👀 I’m interested in Java frameworks
-- 🌱 I’m currently learning gRPC Contract Testing 
-- 💞️ I’m looking to collaborate on pact-gRPC
+- 👋 Hi, I’m Ratnesh Gupta
+- 👀 I’m interested in Java, AI, Microservices, Cloud Services
 
 <!---
 dev-rgupta/dev-rgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
